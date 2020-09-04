@@ -17,5 +17,5 @@ Implementations/Summary notes on various algorithmic techniques and heuristics o
 
 ---
 
-E-mail(Academic) jack2020@korea.ac.kr
+E-mail(Academic) jack2020@korea.ac.kr    
 E-mail(Private) sangjun.park.jun@gmail.com 
