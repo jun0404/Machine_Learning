@@ -2,7 +2,7 @@
 
 ### Implementation Codes on Machine Learning
 
----
+Implementations/Summary notes on various algorithmic techniques and heuristics on current machine learning and deep learning paradigms.
 
 ### Author Info
 
@@ -17,4 +17,5 @@
 
 ---
 
-E-mail sangjun.park.jun@gmail.com
+E-mail(Academic) jack2020@korea.ac.kr
+E-mail(Private) sangjun.park.jun@gmail.com 
