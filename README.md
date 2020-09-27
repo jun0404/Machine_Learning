@@ -15,6 +15,8 @@ Implementations/Summary notes on various algorithmic techniques and heuristics o
 
 ### Contents
 
+---
+
 Introduction to Machine Learning Implementation using PyTorch
 
 ### Contact
