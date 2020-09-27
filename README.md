@@ -17,7 +17,7 @@ Implementations/Summary notes on various algorithmic techniques and heuristics o
 
 ---
 
-Introduction to Machine Learning Implementation using PyTorch
+[Introduction to Machine Learning Implementation using PyTorch]()
 
 ### Contact
 
