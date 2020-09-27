@@ -10,10 +10,10 @@ Implementations/Summary notes on various algorithmic techniques and heuristics o
 
 **Sangjun Park 박상준(朴常俊) (📧sangjun.park.jun@gmail.com)**
 
-![Korea University](https://github.com/jun0404/Machine_Learning/blob/master/globalsymbol_koreng2_large.gif)
-
 - Korea University, College of Medicine (Attending since 2017)
 - Korea University, Department of Statistics, College of Political Science and Economics (Completed in 2019)
+
+![Korea University](https://github.com/jun0404/Machine_Learning/blob/master/globalsymbol_koreng2_large.gif)
 
 ### Contents
 
