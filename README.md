@@ -19,7 +19,7 @@ Implementations/Summary notes on various algorithmic techniques and heuristics o
 
 ---
 
-[Introduction to Machine Learning Implementation using PyTorch](https://github.com/jun0404/Machine_Learning/blob/master/linear_regression_pytorch.ipynb)
+[Introduction to Machine Learning Implementation using PyTorch](https://github.com/jun0404/Machine_Learning/blob/master/linear_regression_pytorch.pdf)
 
 ### Contact
 
